@@ -1,1 +1,1 @@
-This README is not empty
+README.md exists and is not empty
